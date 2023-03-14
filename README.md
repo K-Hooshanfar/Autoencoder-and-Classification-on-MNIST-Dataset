@@ -20,7 +20,7 @@ The code loads the MNIST dataset and preprocesses the data by normalizing the pi
 ## Autoencoder
 The autoencoder is designed with three hidden layers. The latent space size is set to 30. The model is trained on the MNIST dataset for 100 epochs using the Adam optimizer and binary cross-entropy loss. The autoencoder is then evaluated by comparing the original and reconstructed images, and plotting the loss and validation loss over the training epochs.
 
-
+![Uploading download.png…]()
 
 ## Classification
 The output of the encoder is used as the input for the classification model. The classification model has two hidden layers, each with 30 neurons, and an output layer with 10 neurons representing the 10 classes in the MNIST dataset. The model is trained for 10 epochs using the Adam optimizer and categorical cross-entropy loss. The classification model is evaluated by calculating the accuracy and confusion matrix on the test data.
