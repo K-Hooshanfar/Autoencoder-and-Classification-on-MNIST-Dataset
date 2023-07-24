@@ -3,8 +3,9 @@
 
 This code consists of two main parts. The first part is an autoencoder designed to compress and decompress MNIST handwritten digit images, and the second part is a classification model that uses the output of the encoder as input.
 
-![82336a44-028b-4baf-a891-a074c3f968b0](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/assets/83825004/b9a95309-c274-4f7e-98b0-ead79fb2292b)
-
+<div style="text-align:center">
+    <img src="[path/to/your/1.png](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/3.png)" alt="Image Alt Text">
+</div>
 
 ## Requirements
 keras -
@@ -30,14 +31,17 @@ The output of the encoder is used as the input for the classification model. The
 ## Results
 The autoencoder is able to effectively compress and reconstruct the MNIST images, with a validation loss of around 0.08 after 100 epochs of training. The classification model achieves an accuracy of over 97% on the test data.
 
-*Train/Val accuracy and loss plot*
 
-![96bd57d0-f0c6-44c1-bb55-3d10a8aac407](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/assets/83825004/3c5a9c45-193e-4e88-a5d1-47564877f63e)
+<div style="text-align:center">
+    <img src="[path/to/your/photo.jpg](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/2.png)" alt="Image Alt Text">
+</div>
+<p align="center">Caption: Train/Val accuracy and loss plot.</p>
 
 
-*Confusion Matrix*
-
-![d660f7bd-2d4d-44fe-89fb-62d0eef31ae6](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/assets/83825004/e71882e1-aa98-436f-b881-c653987e80ae)
+<div style="text-align:center">
+    <img src="[path/to/your/photo.jpg](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/1.png)" alt="Image Alt Text">
+</div>
+<p align="center">Caption: Confusion Matrix.</p>
 
 
 
