@@ -39,7 +39,7 @@ The autoencoder is able to effectively compress and reconstruct the MNIST images
 <p align="center">Caption: Train/Val accuracy and loss plot.</p>
 
 
-<div style="center">
+<div style="text-align:center">
     <img src="https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/1.png" alt="Image Alt Text">
 </div>
 <p align="center">Caption: Confusion Matrix.</p>
