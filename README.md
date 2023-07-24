@@ -28,8 +28,11 @@ The output of the encoder is used as the input for the classification model. The
 ## Results
 The autoencoder is able to effectively compress and reconstruct the MNIST images, with a validation loss of around 0.08 after 100 epochs of training. The classification model achieves an accuracy of over 97% on the test data.
 ![96bd57d0-f0c6-44c1-bb55-3d10a8aac407](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/assets/83825004/3c5a9c45-193e-4e88-a5d1-47564877f63e)
+*Caption: Train/Val accuracy and loss plot*
 
 ![d660f7bd-2d4d-44fe-89fb-62d0eef31ae6](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/assets/83825004/e71882e1-aa98-436f-b881-c653987e80ae)
+*Caption: Confusion Matrix*
+
 
 
 
