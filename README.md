@@ -4,7 +4,7 @@
 This code consists of two main parts. The first part is an autoencoder designed to compress and decompress MNIST handwritten digit images, and the second part is a classification model that uses the output of the encoder as input.
 
 <div style="text-align:center">
-    <img src="[path/to/your/photo.jpg](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/3.png)" alt="Image Alt Text">
+    <img src="https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/3.png" alt="Image Alt Text">
 </div>
 
 
@@ -34,13 +34,13 @@ The autoencoder is able to effectively compress and reconstruct the MNIST images
 
 
 <div style="text-align:center">
-    <img src="[https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/2.png)](" alt="Image Alt Text">
+    <img src="https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/2.png" alt="Image Alt Text">
 </div>
 <p align="center">Caption: Train/Val accuracy and loss plot.</p>
 
 
 <div style="text-align:center">
-    <img src="[https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/1.png] " alt="Image Alt Text">
+    <img src="https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/1.png" alt="Image Alt Text">
 </div>
 <p align="center">Caption: Confusion Matrix.</p>
 
