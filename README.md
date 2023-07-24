@@ -3,6 +3,8 @@
 
 This code consists of two main parts. The first part is an autoencoder designed to compress and decompress MNIST handwritten digit images, and the second part is a classification model that uses the output of the encoder as input.
 
+![82336a44-028b-4baf-a891-a074c3f968b0](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/assets/83825004/b9a95309-c274-4f7e-98b0-ead79fb2292b)
+
 
 ## Requirements
 keras -
