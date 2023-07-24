@@ -6,6 +6,7 @@ This code consists of two main parts. The first part is an autoencoder designed 
 <div style="text-align:center">
     <img src="[path/to/your/1.png](https://github.com/K-Hooshanfar/Autoencoder-and-Classification-on-MNIST-Dataset/blob/main/pic/3.png)" alt="Image Alt Text">
 </div>
+![Alt text](pic/3.png)
 
 ## Requirements
 keras -
